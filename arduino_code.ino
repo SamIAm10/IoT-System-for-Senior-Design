@@ -1,5 +1,5 @@
 // Thingspeak  
-String statusChWriteKey = "LU0DPGBUGKYV5RDL";  // Status Channel id: 385184
+String statusChWriteKey = ""; // empty due to privacy reasons
 
 String canalID1 = "1005475"; // Enter your Actuator1 Channel ID here
 String canalID2 = "1005476"; // Enter your Actuator1 Channel ID here
