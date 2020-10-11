@@ -2,7 +2,7 @@
 String statusChWriteKey = ""; // empty due to privacy reasons
 
 String canalID1 = "1005475"; // Enter your Actuator1 Channel ID here
-String canalID2 = "1005476"; // Enter your Actuator1 Channel ID here
+String canalID2 = "1005476"; // Enter your Actuator2 Channel ID here
 
 #include <SoftwareSerial.h>
 SoftwareSerial EspSerial(6, 7); // Rx,  Tx
