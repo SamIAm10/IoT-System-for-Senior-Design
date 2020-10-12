@@ -1,7 +1,5 @@
 # IoT System for Senior Design
-This repo stores some of the shareable code for my senior design project
-
-[Project website](https://ecesd.engr.uconn.edu/ecesd2013/)
+This repo stores some of the shareable code for my [senior design project](https://ecesd.engr.uconn.edu/ecesd2013/).
 
 - The Android app file (APK) can be built from the "android_app.aia" source file in MIT App Inventor
 - The "arduino_code.ino" file can be programmed onto an Arduino board using the Arduino IDE
