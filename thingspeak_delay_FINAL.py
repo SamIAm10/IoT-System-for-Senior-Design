@@ -14,7 +14,7 @@ error_data = []
 ser = serial.Serial('COM4', 9600)
 time.sleep(2)
 
-# read data from serial input, match it with data in ThingSpeak, and find total delay
+# read data from serial input, match it with data in ThingSpeak cloud, and find total delay
 end_time = time.time() + seconds_to_run
 while time.time() < end_time:
     b = ser.readline()
